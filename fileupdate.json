@@ -1,0 +1,33 @@
+{
+"Reward": "ca-app-pub-3940256099942544/5224354917",
+"Inter": "ca-app-pub-8283881532539011/3706824991",
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "Ah5ZLPlKURRnqC+h9EBcKF5eEmyrqci9QTvRLMk9ESYn+VGwSsYTa+7hvquFDSS31NM+VUTAixpe4SvUGQlN/UG99t2ZEfswXdlzfeve5aAf+R0aYu7Shn+9FJfs9fl1gMkieghk69wR8nGy+T2NracgkoY2LhUUPyMin+FmeOJDIIJhPeKFPF9J/vBt6vq6RMLY/4gMug4c26X3sM2ctmtoEJO+DSzYPF96Oz1Dv8kFcV6Vto2haGCOUIIRfIjqC8OvR+4URZmNepc6gVsGa5qSAtpkHHAg73ge7EJWCIhl/sAwdJrlUQCts8cruXoZ8FZUE+1w8gqGVi7RhxblLHC3ou34SIhDDxKS+13ZZfqjQ7to586pPpcd8EvpJHG7EB02z9+6kOd9FSTNcQNfBII3o7N7ecb1u4HoNbGex+OZRnJzBo2h9Bk8opWySH6VzN9kbgb3ZYEB8iVaeQiqNSmZVgE4QLcdzrX8rg=="
+     
+},
+{
+        //server-2
+      "config": "VkVxQQIbR4S9qnFvHzs1EQ96BhofweNM/i4teh73+1WIfncnu09o/Po9xuwlyOPZqZX8+k5I35M+0WpkdpqrqKNg07KIvXwc2SRYjqKnWQs66wTf0aywcatTIO1J0wfDqiFfByJ1pIBPKUI0lA0kFdgzToiQD1upnc0QIdllYc5AA46F5CfjbTdyZO0fFxImgXDywbyIOIWvs01ZDp51pzlKZvLhPyN/r1HxLu57WioqYBcn5QIJxDDBXqJ8B5sFtprKX8prDjeD/lAB"
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac SIM Guide \nContent here",
+
+"true": "True SIM Guide \nContent here",
+
+"ais": "Ais SIM Guide \nContent here"
+
+
+
+}
