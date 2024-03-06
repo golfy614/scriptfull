@@ -23,7 +23,21 @@
 
 "dtac": "Dtac SIM Guide \nContent here",
 
-"true": "True SIM Guide \nContent here",
+"true": "[
+
+{
+         //server-1
+         "config": "W/01xqUPgctwFpDdN3b6pVJPgzC4x+FnGlqpX8lB0dcQBWFAVvHdtwd3kI/Mto16aPT6XESIQuvP3zSB6LNQ+XuB4WTkDzaEqMBmf4sRHm0XAVl994Olh+amv4aFjivtxXf+5soX6UPjRXIF4t/6Y+jCjpGVQMgH5ZcyYpkO45d3gYf5PXJd2oEFr/4Iigv0D2PBoKGdDueue67zyz8xYnUFXfq6wgPjduuVUX2zrJEWlZSY4d6ycZC/SCV4Lft9QeT4Pw=="
+},
+{
+        //server-2
+      "config": "VkVxQQIbR4S9qnFvHzs1EQ96BhofweNM/i4teh73+1WIfncnu09o/Po9xuwlyOPZqZX8+k5I35M+0WpkdpqrqKNg07KIvXwc2SRYjqKnWQs66wTf0aywcatTIO1J0wfDqiFfByJ1pIBPKUI0lA0kFdgzToiQD1upnc0QIdllYc5AA46F5CfjbTdyZO0fFxImgXDywbyIOIWvs01ZDp51pzlKZvLhPyN/r1HxLu57WioqYBcn5QIJxDDBXqJ8B5sFtprKX8prDjeD/lAB"
+      
+      }
+      
+
+   ],
+",
 
 "ais": "Ais SIM Guide \nContent here"
 
