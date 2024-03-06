@@ -8,8 +8,7 @@
 
 {
          //server-1
-         "config": "W/01xqUPgctwFpDdN3b6pVJPgzC4x+FnGlqpX8lB0dcQBWFAVvHdtwd3kI/Mto16aPT6XESIQuvP3zSB6LNQ+XuB4WTkDzaEqMBmf4sRHm0XAVl994Olh+amv4aFjivtxXf+5soX6UPjRXIF4t/6Y+jCjpGVQMgH5ZcyYpkO45d3gYf5PXJd2oEFr/4Iigv0D2PBoKGdDueue67zyz8xYnUFXfq6wgPjduuVUX2zrJEWlZSY4d6ycZC/SCV4Lft9QeT4Pw=="
-},
+         "config": "NxmylIGfo5wrWjFdy4KYOa20Nohyp3ZuPU2FYHVHhjA+Wy1mZSuQp1YMtjUvB7uYvpvmr5wIPABYCBiom9wQQoahbERU1uxj/f14UldgOm4ZV7RGN/3+2qij5VyaSNdXKuBBBdYGfTCfmnY/+EolBSp8jyLf5tKU2DBR+aAojfA6AY5D7ZrB/Ezu0xnHgMSO0rT4um3v6Bmf3tleNimp1hSrB6rbOikV8p9YecxSTy63ON5Nqa412q0/B3V1Oc4xKCURltdEjaWU4GVNvsZ/V3a8Lx9AWYPW5eF9ro8+rB68TntC9E/IPlAPgbEg7B4nAMm467dxo054kkjYTKygeuQ6V4QVy+dM9eUlAx3NB4UXdOAzpTViCNfGBR/V4wpHCVLAE+ZxXhBB/CMWtFlEZufYprZudYbSrlCUWHYy3tKmE56V15lwvvw+XOLiiJJg/SywQfxgWbi5qNO4f/EL3Q=="
 {
         //server-2
       "config": "VkVxQQIbR4S9qnFvHzs1EQ96BhofweNM/i4teh73+1WIfncnu09o/Po9xuwlyOPZqZX8+k5I35M+0WpkdpqrqKNg07KIvXwc2SRYjqKnWQs66wTf0aywcatTIO1J0wfDqiFfByJ1pIBPKUI0lA0kFdgzToiQD1upnc0QIdllYc5AA46F5CfjbTdyZO0fFxImgXDywbyIOIWvs01ZDp51pzlKZvLhPyN/r1HxLu57WioqYBcn5QIJxDDBXqJ8B5sFtprKX8prDjeD/lAB"
@@ -23,7 +22,7 @@
 
 "dtac": "Dtac SIM Guide \nContent here",
 
-"true": "[
+"true": [
 
 {
          //server-1
@@ -37,7 +36,6 @@
       
 
    ],
-",
 
 "ais": "Ais SIM Guide \nContent here"
 
